@@ -1,1 +1,2 @@
 Hi Welcome to Squash commit!!!
+Lets try all changes here
